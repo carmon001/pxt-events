@@ -1,5 +1,5 @@
 {
-    "name": "events",
+    "name": "events1",
     "dependencies": {
         "device": "*"
     },
